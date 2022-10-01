@@ -1,0 +1,27 @@
+body {
+  background-color: cadetblue;
+  font-family: "Poppins", sans-serif;
+  max-width: 600px;
+}
+
+header {
+  display: block;
+  text-align: center;
+}
+
+nav {
+  list-style: none;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+}
+
+footer {
+  display: flex;
+}
+
+footer div {
+  flex: 1;
+}
