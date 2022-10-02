@@ -45,25 +45,23 @@ ul {
 
 section {
   display: flex;
+  margin-top: 20px;
 }
 
-.promotion img {
-  width: 100%;
-  position: relative;
-}
-
-.promotion .overlay {
-  position: absolute;
-  top: 370px;
-  left: 180px;
-  font-weight: bold;
+h2 {
+  color: white;
+  font-size: medium;
   text-align: center;
-  font-size: 25px;
-  color: cadetblue;
+  font-weight: bold;
 }
 
 article {
   flex: 1;
+}
+
+.article .img {
+  text-align: center;
+  padding: 5px;
 }
 
 footer {
