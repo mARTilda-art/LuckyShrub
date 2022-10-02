@@ -81,3 +81,17 @@ footer div {
   flex: 1;
   color: white;
 }
+
+footer .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.promotion .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 180%;
+}
