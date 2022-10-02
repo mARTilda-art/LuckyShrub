@@ -12,7 +12,7 @@ header {
 .slogan {
   color: white;
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   font-style: italic;
 }
@@ -55,6 +55,11 @@ h2 {
   font-weight: bold;
 }
 
+p {
+  color: white;
+  font-style: italic;
+}
+
 article {
   flex: 1;
 }
@@ -62,6 +67,10 @@ article {
 .article .img {
   text-align: center;
   padding: 5px;
+}
+
+hr {
+  color: white;
 }
 
 footer {
